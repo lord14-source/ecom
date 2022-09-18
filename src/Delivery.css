@@ -1,0 +1,42 @@
+.delivery_logo{
+
+    width: 150px;
+    object-fit: contain;
+    margin: 0 20px;
+    margin-top: 18px;
+    height: 10px;
+    margin-left: 50px;
+    margin-bottom: 60px;
+    font-weight: 200;
+    font-family: lighter;
+
+    
+}
+.in{
+    margin-top: 10px;
+    margin-right: 5px;
+    border-radius: 30px;
+}
+.ss{
+    font-size: 13px;
+    font-weight: 500;
+    margin-top: 6px;
+
+}
+.div{
+    display: flex;
+}
+.title_delivery{
+    font-weight: 400;
+
+}
+.be{
+    display:flex;
+}
+.writ{
+    color: red; 
+    margin-left: 600px; 
+    align-items: center;
+    margin-top: 1%;
+    margin-bottom: 20px;
+height: 30p0x;}

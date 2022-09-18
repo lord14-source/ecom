@@ -1,0 +1,40 @@
+.checkoutproduct{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.checkoutproduct_info{
+    padding-left: 20px;
+    margin-left: 15px;
+}
+.but{
+    background-color: #f0c14b;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color:#a88734 #9c7e31 #846a29;
+    color: #111;
+    margin-left: 15px;
+}
+.checkoutproduct_image{
+    max-width: 100%;
+    vertical-align: top;
+    object-fit: contain;
+    width: 180px;
+    aspect-ratio: auto 180 / 180;
+    height: 180px;
+    
+    font: 100px;
+}
+.checkproduct_title{
+   margin-top: 15px;
+   margin-left: 13px;
+   font-size: 16px;
+   font-weight: 800;
+}
+.product_rating{
+    display: flex;
+    margin-left: 15px;
+}
+.checkoutproduct_prize{
+    margin-left: 15px;
+}
